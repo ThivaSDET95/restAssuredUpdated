@@ -1,0 +1,11 @@
+ {
+    "first_name": "Rakesh",
+    "last_name": "Rakiii",  
+    "email": [
+    {
+           "Primary":  "testrakiii@qa.com",
+           "Secondary": "test@qa.com"
+           }
+    ]
+    
+  }
